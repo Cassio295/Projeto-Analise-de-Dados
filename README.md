@@ -5,3 +5,7 @@
  um e-mail para cada gerente com as metas da loja sendo elas negativas ou não.
  Após isso criar um ranking para a diretoria e enviar esse mesmo e-mail para eles.
 
+ Sendo a imagem a seguir o exemplo de como será o e-mail que os gerentes devem receber.
+
+ <img src= "https://github.com/Cassio295/Projeto-Analise-de-Dados/blob/main/Exemplo.JPG?raw=true" >
+
